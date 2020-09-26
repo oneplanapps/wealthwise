@@ -27,3 +27,14 @@ Our aim with Wealth Wise, is to keep the app simple. With the intial release, yo
 - Weekly or monthly reminders.
 
 <br>
+
+## **Version 1.1**
+
+The launch for Wealth Wise went great! Unfortunately, a couple of bugs did get through the cracks and we want to fix them as soon as possible. Fortunately, the development team were the only ones to notice them so far.
+
+#### What's New
+
+- We've set the stage to be able to translate the app in future versions
+- We've fixed a few bugs
+
+<br>
